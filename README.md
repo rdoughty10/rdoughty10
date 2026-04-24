@@ -4,7 +4,7 @@ My name is Ryan Doughty, I am currently a 2nd Year PhD Student in Computer Scien
 
 All of my research currently is in the world of bioinformatics 🧬💻 -- specifically, I like developing fast computational methods to help us understand the microbial world (viruses, bacteria, etc). This involves computational challenges such as low level string algorithms, high performance algorithms, and complex biological questions such as microbial pathogenicity prediction ☣️, microbial variation and homology inference, and more. 
 
-I work under the primary supervision of [Todd Treangen](https://treangenlab.com/), but through a [NLM Biomedical Informatics and Data Science fellowship](https://www.gulfcoastconsortia.org/home/training/bmi-nlm/), I also work under the secondary supervision of https://tiszalab.github.io/ at Baylor College of Medicine. 
+I work under the primary supervision of [Todd Treangen](https://treangenlab.com/), but through a [NLM Biomedical Informatics and Data Science fellowship](https://www.gulfcoastconsortia.org/home/training/bmi-nlm/), I also work under the secondary supervision of [Michael Tisza](https://tiszalab.github.io/) at Baylor College of Medicine. 
 
 Outside of the lab, I like playing soccer, running, and generally being outside and away from screens. 
 
