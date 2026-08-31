@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is Ryan Doughty, I am currently a 2nd Year PhD Student in Computer Science at Rice University 🦉. Previously I attended Case Western Reserve University, where I graduated with a B.S. in Computer Science while playing on the Men's Soccer Team ⚽.
+My name is Ryan Doughty, I am currently a 3rd Year PhD Student in Computer Science at Rice University 🦉. Previously I attended Case Western Reserve University, where I graduated with a B.S. in Computer Science while playing on the Men's Soccer Team ⚽.
 
 All of my research currently is in the world of bioinformatics 🧬💻 -- specifically, I like developing fast computational methods to help us understand the microbial world (viruses, bacteria, etc). This involves computational questions like how to make string algorithms more performant, and complex biological questions such as how to predict microbial pathogenicity ☣️ or how to infer distant bacterial homology (among many other questions and topics).  
 
